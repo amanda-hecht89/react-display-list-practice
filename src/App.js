@@ -7,6 +7,9 @@ import { pets } from './pet/pets.js';
 import PetList from './pet/PetList';
 import { recipes } from './Recipe/recipes.js';
 import RecipeList from './Recipe/RecipeList';
+import { television } from './Television/television';
+import TelevisionList from './Television/TelevisionList';
+
 
 
 function App() {
@@ -18,6 +21,8 @@ function App() {
       <PetList pets={pets} />
       <hr />
       <RecipeList recipes={recipes} />
+      <hr />
+      <TelevisionList television={television} />
     </div>
   );
 }
