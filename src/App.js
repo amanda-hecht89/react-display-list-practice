@@ -2,9 +2,9 @@
 import './App.css';
 // import your arrays here
 import { candies } from './Candy/candies-data.js';
-import CandiesList from './CandiesList';
+import CandiesList from './Candy/CandiesList';
 import { pets } from './pet/pets.js';
-import PetList from './PetList';
+import PetList from './pet/PetList';
 import { recipes } from './Recipe/recipes.js';
 import RecipeList from './Recipe/RecipeList';
 
