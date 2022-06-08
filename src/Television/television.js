@@ -11,7 +11,7 @@ export const television = [
   },
   {
     name: '2 Broke Girls',
-    genre: 'Comdey',
+    genre: 'Comedy',
     actors: ['Beth Behrs', ' Jennifer Coolidge', ' Kat Dennings'],
   },
 ];

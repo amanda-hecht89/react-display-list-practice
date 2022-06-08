@@ -1,0 +1,14 @@
+.tv {
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+
+}
+
+.tele {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}

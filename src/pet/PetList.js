@@ -1,4 +1,5 @@
 import PetItem from './PetItem';
+import './pet.css';
 
 export default function PetList({ pets }) {
   return (
