@@ -1,12 +1,12 @@
 
 import './App.css';
 // import your arrays here
-import { candies } from './candies-data.js';
+import { candies } from './Candy/candies-data.js';
 import CandiesList from './CandiesList';
-import { pets } from './pets.js';
+import { pets } from './pet/pets.js';
 import PetList from './PetList';
-import { recipes } from './recipes.js';
-import RecipeList from './RecipeList';
+import { recipes } from './Recipe/recipes.js';
+import RecipeList from './Recipe/RecipeList';
 
 
 function App() {

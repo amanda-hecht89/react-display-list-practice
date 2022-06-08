@@ -1,4 +1,4 @@
-import PetItem from './PetItem';
+import PetItem from './pet/PetItem';
 
 export default function PetList({ pets }) {
   return (
