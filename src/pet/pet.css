@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Fresca&display=swap');
+
+.pet {
+    background-color: rgba(23, 79, 23, 0.251);align-self: auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+}
+
+.pet-list {
+    display: flex;
+    flex-wrap: wrap;
+    background-size: cover;
+
+}
+
+.pet h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 35px;
+    color: rgba(23, 79, 23);
+}
+
+.pet p {
+    font-family: 'Fresca', sans-serif;
+    font-size: 25px;
+    color: rgba(23, 79, 23);
+    
+}
