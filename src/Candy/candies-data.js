@@ -4,4 +4,6 @@ export const candies = [
   'sweet tarts',
   'snickers',
   'kit-kat bars',
+  'jolly ranchers',
+  'three musketeers'
 ];

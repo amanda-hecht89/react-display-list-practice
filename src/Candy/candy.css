@@ -1,13 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Fresca&display=swap');
+
 .candy {
-    background-color: pink;
+    background-color: rgba(104, 45, 55, 0.258);
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
     width: 30%;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    color: rgb(104, 45, 55);
 }
 
 .yummy {
-    background-color: white;
     display: flex;
     flex-wrap: wrap;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }

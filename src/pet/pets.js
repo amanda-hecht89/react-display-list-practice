@@ -19,4 +19,14 @@ export const pets = [
     type: 'Fish',
     breed: 'Plecco',
   },
+  {
+    name: 'Ninja',
+    type: 'Fish',
+    breed: 'Black and White Clownfish',
+  },
+  {
+    name: 'Ripley',
+    type: 'Dog',
+    breed: 'Rottweiler',
+  },
 ];

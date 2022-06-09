@@ -20,7 +20,7 @@ export const recipes = [
     instructions: 
         { 
           ingredients: 'strawberries, sugar, shortcake',
-          price: '$10',
+          price: '$18',
         } 
   }, 
 ];
