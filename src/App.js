@@ -1,4 +1,3 @@
-
 import './App.css';
 // import your arrays here
 import { candies } from './Candy/candies-data.js';
